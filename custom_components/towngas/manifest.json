@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "domain": "towngas",
+  "name": "TownGas",
+  "documentation": "https://github.com/thematrixdev/home-assistant-towngas",
+  "issue_tracker": "https://github.com/thematrixdev/home-assistant-towngas/issues",
+  "config_flow": true,
+  "codeowners": ["@thematrixdev"],
+  "iot_class": "cloud_polling",
+  "loggers": ["towngas"]
+}
